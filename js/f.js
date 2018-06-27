@@ -489,7 +489,6 @@ function calcDiffMS(d1, d2) {
     var t2 = new Date(arrDate2[0], arrDate2[1], arrDate2[2], arrTime2[0], arrTime2[1], arrTime2[2]);
     return  t2 - t1;
 }
-;
 function get_park_second(park_date) {
     var arr = park_date.split(" ");
     var arrDate = arr[0].split("-");

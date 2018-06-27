@@ -362,7 +362,7 @@
         <script type="text/javascript" src="js/easyui/jquery.easyui.min.js?v=7"></script>
         <script type="text/javascript" src="js/easyui/jquery.color.js"></script>        
         <script type="text/javascript" src="js/toast/toastr.min.js"></script>
-        <script type="text/javascript" src="js/f.js?v=20"></script>
+        <script type="text/javascript" src="js/f.js?v=21"></script>
         <script type="text/javascript" src="js/map_label.js?v=18"></script>
         <script type="text/javascript" src="js/vars.js?v=18"></script>
         <script type="text/javascript" src="js/MyServices.js?v=18"></script>
